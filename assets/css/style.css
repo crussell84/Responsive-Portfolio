@@ -171,3 +171,26 @@ p {
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
 }
+
+@media screen and (max-width: 980px) {
+    .content {
+        width: 650px;
+        margin-left: 55px;
+    }
+
+    .logo {
+        margin-left: 55px;
+    }
+
+    .portfolioItem {
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 640px) {
+
+}
