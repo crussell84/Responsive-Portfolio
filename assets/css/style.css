@@ -188,9 +188,91 @@ p {
 }
 
 @media screen and (max-width: 768px) {
+   .wrapper {
+       width: 100%;
+   }
+
+    .content {
+        width: 660px;
+        margin: 20px;
+        padding: 10px 30px;
+    }
+
+    .logo {
+        margin-left: 20px;
+    }
+
+    .nav {
+        padding: 30px 25px 30px 0px;
+    }
+
+    .portfolioWrapper {
+        width: 640px;
+        margin: 0px;
+        padding: 0px;
+    }
 
 }
 
 @media screen and (max-width: 640px) {
+   
+    .wrapper{
+       margin: 0px;
+       padding: 0px;
+   }
+    header {
+        height: 160px;
+        position: static;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .logo {
+        clear: both;
+        width: 100%;
+        margin: 0px;
+        text-align: center;
+        height: 90px;
+        padding: 5px 0px 0px 0px;
+        float: none;
+    }
+
+    .nav {
+        
+        float: none;
+        height: 60px;
+        margin: 0px 0px 0px 0px;
+        text-align: center;
+        padding: 25px 0px 0px 0px;
+    }
+
+   .content {
+       width: 475px;
+       margin-left: 40px;
+   }
+   
+   .aboutPic {
+       float: none;
+       height: 350px;
+       width: 475px;
+       padding: 0px;
+       margin: 0px;
+   }
+
+   .portfolioWrapper {
+       width: 475px;
+   }
+
+   .hover-outline {
+       height: 300px;
+       width: 450px;
+   }
+
+    .portfolioItem {
+        height: 300px;
+        width: 450px;
+    }
+
+
 
 }
