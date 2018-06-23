@@ -65,7 +65,10 @@ footer {
     float: left;
     margin: 0px 15px 15px 0px;
 }
-
+a.border {
+    border-right: 2px solid #777777;
+    padding-right: 5px;
+}
 a {
     color: #777777;
 }
