@@ -1,6 +1,6 @@
-# Basic-Portfolio
+# Responsive-Portfolio
 
-This is the recommended assignment for Week 1, a simple hand-coded portfolio site.
+Week 2 - recreate week 1's homework with media queries to make it responsive
 
 * To see it live, go to: https://crussell84.github.io/Responsive-Portfolio/
 
